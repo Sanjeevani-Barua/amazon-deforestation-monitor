@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+pillow
+rasterio
+pystac-client
+planetary-computer
+odc-stac
+dask
+folium
+torch
